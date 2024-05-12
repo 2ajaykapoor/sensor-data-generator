@@ -16,6 +16,9 @@ Make sure you have Java, Scala and Sbt installed on your system before running t
 
 1. Clone this repository.
 2. Open a terminal and navigate to the project directory.
-3. Run the following command: `sbt run`
+3. Run the following command:
+```plaintext
+sbt run
+```
 4. Follow the prompts to input the required parameters.
 
